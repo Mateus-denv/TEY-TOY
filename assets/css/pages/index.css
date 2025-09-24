@@ -1,0 +1,12 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+
+body {
+    background-color: #FFA704;
+    font-family: "Happy Monkey", system-ui;
+    font-style: normal;
+}
